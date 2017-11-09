@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOAD_ExtraAssignment", "OOAD_ExtraAssignment\OOAD_ExtraAssignment.csproj", "{F9617025-CB7F-4506-9C14-57D450027EFD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOAD_ExtraAssignment.Test", "OOAD_ExtraAssignment.Test\OOAD_ExtraAssignment.Test.csproj", "{3687BA84-2760-473D-8AFA-B645791B97BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F9617025-CB7F-4506-9C14-57D450027EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9617025-CB7F-4506-9C14-57D450027EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9617025-CB7F-4506-9C14-57D450027EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3687BA84-2760-473D-8AFA-B645791B97BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3687BA84-2760-473D-8AFA-B645791B97BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3687BA84-2760-473D-8AFA-B645791B97BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3687BA84-2760-473D-8AFA-B645791B97BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
